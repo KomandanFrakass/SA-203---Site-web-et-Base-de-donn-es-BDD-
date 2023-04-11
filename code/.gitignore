@@ -9,3 +9,5 @@ __MACOSX/
 *.local.*
 *.temp.*
 *.tmp.*
+*.env.dev*
+*.env.prod*
