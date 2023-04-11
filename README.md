@@ -4,8 +4,8 @@ _Les consignes pourront être modifiées._
 > **IMPORTANT :** Votre version de PHP doit être supérieure ou égale à la version 7.0.0. **Si ce n'est pas le site ne fonctionnera pas.** Vous aurez une page blanche avec un message d'erreur. 
 
 ## Didacticiels
-- [Importer une base de données dans phpmyadmin](LISEZ-MOI-IMPORT-SQL.md)
-- [Mémo sur les requêtes SQL](LISEZ-MOI-REQUETES-SQL.md)
+- [Importer une base de données dans phpmyadmin](https://github.com/DanYellow/cours/blob/main/integration-web-s2/sae-203/LISEZ-MOI-IMPORT-SQL.md)
+- [Mémo sur les requêtes SQL]((https://github.com/DanYellow/cours/blob/main/integration-web-s2/sae-203/LISEZ-MOI-REQUETES-SQL.md))
 - [Travailler à plusieurs sur le même serveur php](https://github.com/DanYellow/cours/blob/main/didacticiels-generaux/PARTAGE-SERVEUR.md)
 - [Travailler avec l'extension VS Code liveshare](https://github.com/DanYellow/cours/blob/main/didacticiels-generaux/LIVESHARE.md)
 
